@@ -16,6 +16,10 @@ A lightweight and fun RESTful API built with Node.js, Express, and MongoDB for m
 - MongoDB (database)  
 - Postman (API testing)
 
+## Getting Started
+Follow these steps to get a local copy of the project up and running:
+
+
 ### Prerequisites
 
 - [Node.js](https://nodejs.org/en/download/) installed (version 14 or higher recommended)
