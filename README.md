@@ -54,7 +54,7 @@ _or if you have a custom start script, replace accordingly_
 4. **Test the API**
 > **Note:** By default, the server runs on `http://localhost:3000`. Use Postman or curl to interact with the API.
 
-### Example cURL request to get all todos
+### Example cURL request to get all aliens
 ```bash
 curl http://localhost:3000/aliens
 ```
